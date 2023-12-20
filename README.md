@@ -1,3 +1,24 @@
+# Loja Virtual
+
+### Sobre
+
+- E-Commerce Completo: Uma plataforma robusta e intuitiva que oferece alguns produtos disponíveis para teste.
+- Integrações de APIs Avançadas: Nossa Loja Virtual está equipada com integrações de API de última geração, proporcionando um ambiente perfeitamente conectado para uma experiência de compra.
+- Experiência de Compra Para Testes: Oferecemos uma jornada de compra personalizada, adaptada às suas preferências, histórico de compras e interesses.
+- Segurança e Confiabilidade: Este site oferece uma segurança para o usuário, onde as informações (seja de endereços ou métodos de pagamentos) não sejam acessadas por terceiros.
+
+### Funcionalidades
+
+- Explorar o site
+- Fazer compras
+
+### Observações
+Este site é apenas um teste. Nenhum produto é real e a API foi integrada APENAS para os testes serem feitos.
+No futuro irei adicionar mais funcionalidades, como:
+- Sistema de contas -> Sistema para o usuário criar uma conta ou logar (MySQL).
+- Histórico de compras
+- E muito mais!
+
 ### Interface no Computador
 
 ![Interface no Computador 1](/imgs/computador/ecommerce.png)
